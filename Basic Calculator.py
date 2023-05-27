@@ -37,7 +37,7 @@ num1 = int(input("Enter first number: "))
 num2 = int(input("Enter second number: ")) 
   
 if select == '1': 
-    print(num1, "+", numb2, "=", 
+    print(num1, "+", num2, "=", 
                     add(num1, num2)) 
   
 elif select == '2': 
